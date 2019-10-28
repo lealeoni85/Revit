@@ -1,0 +1,77 @@
+D:\Lu -Independiente\HelloWorld\HelloWorld\bin\Debug\HelloWorld.dll
+D:\Lu -Independiente\HelloWorld\HelloWorld\bin\Debug\HelloWorld.pdb
+D:\Lu -Independiente\HelloWorld\HelloWorld\bin\Debug\RevitAPIUI.dll
+D:\Lu -Independiente\HelloWorld\HelloWorld\bin\Debug\AdWindows.dll
+D:\Lu -Independiente\HelloWorld\HelloWorld\bin\Debug\RevitAddInUtility.dll
+D:\Lu -Independiente\HelloWorld\HelloWorld\bin\Debug\APIInterop.dll
+D:\Lu -Independiente\HelloWorld\HelloWorld\bin\Debug\UIFramework.dll
+D:\Lu -Independiente\HelloWorld\HelloWorld\bin\Debug\AddInManager.dll
+D:\Lu -Independiente\HelloWorld\HelloWorld\bin\Debug\RevitUIAPI.dll
+D:\Lu -Independiente\HelloWorld\HelloWorld\bin\Debug\BuildingSystemsUIAPI.dll
+D:\Lu -Independiente\HelloWorld\HelloWorld\bin\Debug\DesktopMFCAPI.dll
+D:\Lu -Independiente\HelloWorld\HelloWorld\bin\Debug\APIUIAPI.dll
+D:\Lu -Independiente\HelloWorld\HelloWorld\bin\Debug\RevitMFCAPI.dll
+D:\Lu -Independiente\HelloWorld\HelloWorld\bin\Debug\EssentialsUIAPI.dll
+D:\Lu -Independiente\HelloWorld\HelloWorld\bin\Debug\EnergyAnalysisUtilitiesAPI.dll
+D:\Lu -Independiente\HelloWorld\HelloWorld\bin\Debug\DetailUIAPI.dll
+D:\Lu -Independiente\HelloWorld\HelloWorld\bin\Debug\UIFrameworkServices.dll
+D:\Lu -Independiente\HelloWorld\HelloWorld\bin\Debug\ManagedMC3.dll
+D:\Lu -Independiente\HelloWorld\HelloWorld\bin\Debug\Xceed.Wpf.AvalonDock.dll
+D:\Lu -Independiente\HelloWorld\HelloWorld\bin\Debug\RevitAPIUI.xml
+D:\Lu -Independiente\HelloWorld\HelloWorld\bin\Debug\cs-CZ\AdWindows.resources.dll
+D:\Lu -Independiente\HelloWorld\HelloWorld\bin\Debug\de-DE\AdWindows.resources.dll
+D:\Lu -Independiente\HelloWorld\HelloWorld\bin\Debug\en-GB\AdWindows.resources.dll
+D:\Lu -Independiente\HelloWorld\HelloWorld\bin\Debug\en-US\AdWindows.resources.dll
+D:\Lu -Independiente\HelloWorld\HelloWorld\bin\Debug\es-ES\AdWindows.resources.dll
+D:\Lu -Independiente\HelloWorld\HelloWorld\bin\Debug\fr-FR\AdWindows.resources.dll
+D:\Lu -Independiente\HelloWorld\HelloWorld\bin\Debug\it-IT\AdWindows.resources.dll
+D:\Lu -Independiente\HelloWorld\HelloWorld\bin\Debug\ja-JP\AdWindows.resources.dll
+D:\Lu -Independiente\HelloWorld\HelloWorld\bin\Debug\ko-KR\AdWindows.resources.dll
+D:\Lu -Independiente\HelloWorld\HelloWorld\bin\Debug\pl-PL\AdWindows.resources.dll
+D:\Lu -Independiente\HelloWorld\HelloWorld\bin\Debug\pt-BR\AdWindows.resources.dll
+D:\Lu -Independiente\HelloWorld\HelloWorld\bin\Debug\ru-RU\AdWindows.resources.dll
+D:\Lu -Independiente\HelloWorld\HelloWorld\bin\Debug\zh-CN\AdWindows.resources.dll
+D:\Lu -Independiente\HelloWorld\HelloWorld\bin\Debug\zh-TW\AdWindows.resources.dll
+D:\Lu -Independiente\HelloWorld\HelloWorld\obj\Debug\HelloWorld.dll
+D:\Lu -Independiente\HelloWorld\HelloWorld\obj\Debug\HelloWorld.pdb
+C:\Autodesk\HelloWorld\HelloWorld\bin\Debug\HelloWorld.dll
+C:\Autodesk\HelloWorld\HelloWorld\bin\Debug\HelloWorld.pdb
+C:\Autodesk\HelloWorld\HelloWorld\bin\Debug\MySql.Data.dll
+C:\Autodesk\HelloWorld\HelloWorld\bin\Debug\RevitAPIUI.dll
+C:\Autodesk\HelloWorld\HelloWorld\bin\Debug\Google.Protobuf.dll
+C:\Autodesk\HelloWorld\HelloWorld\bin\Debug\BouncyCastle.Crypto.dll
+C:\Autodesk\HelloWorld\HelloWorld\bin\Debug\AdWindows.dll
+C:\Autodesk\HelloWorld\HelloWorld\bin\Debug\RevitAddInUtility.dll
+C:\Autodesk\HelloWorld\HelloWorld\bin\Debug\APIInterop.dll
+C:\Autodesk\HelloWorld\HelloWorld\bin\Debug\UIFramework.dll
+C:\Autodesk\HelloWorld\HelloWorld\bin\Debug\AddInManager.dll
+C:\Autodesk\HelloWorld\HelloWorld\bin\Debug\RevitUIAPI.dll
+C:\Autodesk\HelloWorld\HelloWorld\bin\Debug\BuildingSystemsUIAPI.dll
+C:\Autodesk\HelloWorld\HelloWorld\bin\Debug\DesktopMFCAPI.dll
+C:\Autodesk\HelloWorld\HelloWorld\bin\Debug\APIUIAPI.dll
+C:\Autodesk\HelloWorld\HelloWorld\bin\Debug\RevitMFCAPI.dll
+C:\Autodesk\HelloWorld\HelloWorld\bin\Debug\EssentialsUIAPI.dll
+C:\Autodesk\HelloWorld\HelloWorld\bin\Debug\EnergyAnalysisUtilitiesAPI.dll
+C:\Autodesk\HelloWorld\HelloWorld\bin\Debug\DetailUIAPI.dll
+C:\Autodesk\HelloWorld\HelloWorld\bin\Debug\UIFrameworkServices.dll
+C:\Autodesk\HelloWorld\HelloWorld\bin\Debug\ManagedMC3.dll
+C:\Autodesk\HelloWorld\HelloWorld\bin\Debug\Xceed.Wpf.AvalonDock.dll
+C:\Autodesk\HelloWorld\HelloWorld\bin\Debug\MySql.Data.xml
+C:\Autodesk\HelloWorld\HelloWorld\bin\Debug\RevitAPIUI.xml
+C:\Autodesk\HelloWorld\HelloWorld\bin\Debug\cs-CZ\AdWindows.resources.dll
+C:\Autodesk\HelloWorld\HelloWorld\bin\Debug\de-DE\AdWindows.resources.dll
+C:\Autodesk\HelloWorld\HelloWorld\bin\Debug\en-GB\AdWindows.resources.dll
+C:\Autodesk\HelloWorld\HelloWorld\bin\Debug\en-US\AdWindows.resources.dll
+C:\Autodesk\HelloWorld\HelloWorld\bin\Debug\es-ES\AdWindows.resources.dll
+C:\Autodesk\HelloWorld\HelloWorld\bin\Debug\fr-FR\AdWindows.resources.dll
+C:\Autodesk\HelloWorld\HelloWorld\bin\Debug\it-IT\AdWindows.resources.dll
+C:\Autodesk\HelloWorld\HelloWorld\bin\Debug\ja-JP\AdWindows.resources.dll
+C:\Autodesk\HelloWorld\HelloWorld\bin\Debug\ko-KR\AdWindows.resources.dll
+C:\Autodesk\HelloWorld\HelloWorld\bin\Debug\pl-PL\AdWindows.resources.dll
+C:\Autodesk\HelloWorld\HelloWorld\bin\Debug\pt-BR\AdWindows.resources.dll
+C:\Autodesk\HelloWorld\HelloWorld\bin\Debug\ru-RU\AdWindows.resources.dll
+C:\Autodesk\HelloWorld\HelloWorld\bin\Debug\zh-CN\AdWindows.resources.dll
+C:\Autodesk\HelloWorld\HelloWorld\bin\Debug\zh-TW\AdWindows.resources.dll
+C:\Autodesk\HelloWorld\HelloWorld\obj\Debug\HelloWorld.csprojResolveAssemblyReference.cache
+C:\Autodesk\HelloWorld\HelloWorld\obj\Debug\HelloWorld.dll
+C:\Autodesk\HelloWorld\HelloWorld\obj\Debug\HelloWorld.pdb

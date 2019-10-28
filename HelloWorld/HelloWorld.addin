@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<RevitAddIns>
+  <AddIn Type="Command">
+    <Assembly>HelloWorld.dll</Assembly>
+    <ClientId>0B480A7A-7158-40CB-9343-CD1BA469C096</ClientId>
+    <FullClassName>HelloWorld.Class1</FullClassName>
+    <Text>Hola Mundo</Text>
+     <VendorId>LandL</VendorId>
+    <VendorDescription>LandL, www.LandL.com</VendorDescription>
+  </AddIn>
+ 
+
+</RevitAddIns>
